@@ -75,7 +75,7 @@ export default function AboutUs() {
       <div className="row my-2">
         <div className="col-md-6">
           <Card info={infoObjGeneral} />
-          <div className="card border border-primary my-2">
+          <div className="card border-0 my-2">
             <div
               className="card-header"
               style={{ "background-color": "#0b0633" }}
@@ -151,7 +151,7 @@ export default function AboutUs() {
       </div>
       <div className="row my-2">
         <div className="col-md-12">
-          <div className="card border border-primary my-2">
+          <div className="card border-0 my-2">
             <div
               className="card-header"
               style={{ "background-color": "#0b0633" }}
